@@ -9,3 +9,8 @@ The input will consist of exactly one line containing at least one character. Th
 Output Specification
 Output a single integer that is equal to the minimum possible number of swaps needed to arrange the books so that all occurrences of L come first, followed by all occurrences of M,
 and then all occurrences of S.
+
+This is to test editing
+This is a second edit.
+This is a third edit
+This is a fourth edit
